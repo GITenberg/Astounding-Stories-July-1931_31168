@@ -1,0 +1,43 @@
+_repo: Astounding-Stories-July-1931_31168
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31168-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Bates, Harry
+    aliases:
+    - Bates, Hiram Gilmore
+    - Winter, H. G.
+    birthdate: 1900
+    deathdate: 1981
+    gutenberg_agent_id: '33755'
+    url: http://www.gutenberg.org/2009/agents/33755
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Bates_(author)
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2010-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction -- Periodicals'
+- !lcc 'PN'
+- !lcsh 'Science fiction, American -- Periodicals'
+tableOfContents: The doom from planet 4 / Jack Williamson -- The hands of Aten / H.G.
+  Winter -- The diamond thunderbolt / H. Thompson Rich -- The slave ship from space
+  / A.R. Holmes -- The revolt of the machines /Nat Schachner and Arthur L. Zagat --
+  The exile of time (conclusion) / Ray Cummings.
+title: Astounding Stories, July, 1931
+url: http://www.gutenberg.org/ebooks/31168
